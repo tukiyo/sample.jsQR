@@ -1,0 +1,7 @@
+[2020-07-24 14:49:17] "QR code was invented in 1994."
+[2020-07-24 14:49:20] "QRコードは簡単に自作できる♪"
+[2020-07-24 14:49:22] "https://www.w-stage.jp/"
+[2020-07-24 14:49:23] "http://srv.prof-morii.net/~morii/verifyQR/detailQRcode2.apk"
+[2020-07-24 14:49:26] "https://twitter.com/KojimaQK"
+[2020-07-24 14:49:28] "https://www.shimamura.co.jp/shop/umeda/"
+[2020-07-24 14:49:35] "http://icon-qr.quel.jp/00595085543985"
